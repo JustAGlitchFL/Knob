@@ -16,3 +16,5 @@ Hours: 2
 Made a case + plate in Onshape
 ![](images/case.png)
 
+## Finishing it up: 6/18/25
+Sourced parts, made a BOM, wrote the readme, and submitted.
