@@ -8,7 +8,7 @@ This was inspired by both the BMW iDrive controller, and the Garmin G1000NXI avi
 Just solder everything as shown in the KiCad Project, nothing special.
 
 ## Pics
-![render](.images/render.png)
+![render](/images/render.png)
 ![pcb](/images/pcb.png)
 ![case](/images/case.png)
 
