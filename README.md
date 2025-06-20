@@ -11,6 +11,7 @@ Just solder everything as shown in the KiCad Project, nothing special.
 ![render](/images/render.png)
 ![pcb](/images/pcb.png)
 ![case](/images/case.png)
+![sch](/images/sch.png)
 
 ## BOM 
 |Q  |Name             |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |Price+ship|Total |
