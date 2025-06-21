@@ -4,6 +4,7 @@ author: "rowyn"
 description: "Multidirectional controller"
 created_at: "2025-06-12"
 ---
+Total Hours: 9
 
 ## On the plane: 6/12/25
 Hours: 5
