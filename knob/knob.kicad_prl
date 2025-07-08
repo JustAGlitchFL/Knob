@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 17,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -39,11 +39,10 @@
       "footprint_values",
       "footprint_references",
       "tracks",
-      "drc_errors",
       "drawing_sheet",
       "bitmaps",
       "pads",
-      "drc_warnings",
+      "zones",
       "locked_item_shadows",
       "conflict_shadows",
       "shapes"
@@ -86,16 +85,16 @@
       9
     ],
     "col_widths": [
-      222,
-      207,
-      136,
-      92,
-      136,
-      136,
-      136,
-      98,
-      136,
-      136
+      333,
+      311,
+      204,
+      138,
+      204,
+      204,
+      204,
+      147,
+      204,
+      204
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
