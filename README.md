@@ -8,8 +8,14 @@ This was inspired by both the BMW iDrive controller, and the Garmin G1000NXI avi
 Just solder everything as shown in the KiCad Project, nothing special.
 
 ## Pics
-![render](/images/render.png)
-![pcb](/images/pcb.png)
-![sch](/images/sch.png)
+![render](/images/rendernew.png)
+![pcb](/images/pcbnew.png)
+![sch](/images/schnew.png)
 
 ## BOM 
+|Q  |Name             |Link                                                                                 |Price+ship                                   |Total |
+|---|-----------------|-------------------------------------------------------------------------------------|---------------------------------------------|------|
+|1  |Knob PCB         |                                                                                     |$8.22                                        |$30.96|
+|1  |Alps RKJXT1F42001|https://www.digikey.com/en/products/detail/alps-alpine/RKJXT1F42001/19529127         |$22.74                                       |      |
+|6  |SK6812MINI-E     |                                                                                     |on hand                                      |      |
+|1  |XIAO RP2040      |https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129|included in the other to account for shipping|      |
