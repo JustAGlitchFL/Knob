@@ -658,6 +658,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/aidan/Downloads/RKJXT1F42001--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Seeed Studio XIAO Series Library:XIAO-RP2040-SMD"
 		(layer "F.Cu")
@@ -1133,6 +1144,17 @@
 			(uuid "cefc3b5a-c87a-4033-9a47-287ad39f99f2")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/aidan/Downloads/102010428--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "cheyao macropad main PCB-third_party_neopixel.petty:SK6812MINI-E"
 		(layer "B.Cu")
@@ -1337,6 +1359,17 @@
 			)
 			(rotate
 				(xyz 90 0 0)
+			)
+		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
 			)
 		)
 	)
@@ -1545,6 +1578,17 @@
 				(xyz 90 0 0)
 			)
 		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
+			)
+		)
 	)
 	(footprint "cheyao macropad main PCB-third_party_neopixel.petty:SK6812MINI-E"
 		(layer "B.Cu")
@@ -1749,6 +1793,17 @@
 			)
 			(rotate
 				(xyz 90 0 0)
+			)
+		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
 			)
 		)
 	)
@@ -1957,6 +2012,17 @@
 				(xyz 90 0 0)
 			)
 		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
+			)
+		)
 	)
 	(footprint "cheyao macropad main PCB-third_party_neopixel.petty:SK6812MINI-E"
 		(layer "B.Cu")
@@ -2163,6 +2229,17 @@
 				(xyz 90 0 0)
 			)
 		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
+			)
+		)
 	)
 	(footprint "cheyao macropad main PCB-third_party_neopixel.petty:SK6812MINI-E"
 		(layer "B.Cu")
@@ -2367,6 +2444,17 @@
 			)
 			(rotate
 				(xyz 90 0 0)
+			)
+		)
+		(model "C:/Users/aidan/Downloads/SK6812-E--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
 			)
 		)
 	)
