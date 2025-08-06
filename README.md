@@ -7,6 +7,8 @@ This was inspired by both the BMW iDrive controller, and the Garmin G1000NXI avi
 ## Assembly:
 Just solder everything as shown in the KiCad Project, nothing special.
 
+there is ***NO CASE*** for this project, as I am trying to keep this as small as I physically can (I also have no idea how much deflection there is on the switch and some other physical characteristics, so I wouldn't be able to a make a very good one as is)
+
 ## Pics
 ![render](/images/rendernew.png)
 ![pcb](/images/pcbnew.png)
